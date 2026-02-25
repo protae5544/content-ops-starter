@@ -9,6 +9,7 @@
     "dependencies": {
         "@algolia/autocomplete-js": "^1.17.1",
         "@algolia/autocomplete-theme-classic": "^1.17.1",
+        "@netlify/blobs": "^10.7.0",
         "algoliasearch": "^4.24.0",
         "classnames": "^2.5.1",
         "dayjs": "^1.11.11",
@@ -17,6 +18,8 @@
         "markdown-to-jsx": "^7.7.3",
         "marked": "^14.1.2",
         "next": "15.5.12",
+        "pdf-lib": "^1.17.1",
+        "qrcode": "^1.5.4",
         "react": "^19.1.0",
         "react-dom": "^19.1.0",
         "swiper": "^11.1.4",
