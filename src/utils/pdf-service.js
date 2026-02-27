@@ -65,13 +65,13 @@ function drawQR(page, text, x, y, size) {
 
     // White background with thin border
     page.drawRectangle({
-        x: x - 5,
-        y: y - 5,
-        width: size + 10,
-        height: size + 10,
+        x: x - 35,
+        y: y - 10,
+        width: size + 15,
+        height: size + 15,
         color: rgb(1, 1, 1),
         borderColor: rgb(0.8, 0.8, 0.8),
-        borderWidth: 0.5
+        borderWidth: 0.0
     });
 
     // Draw QR modules
